@@ -167,4 +167,6 @@ print('Usuario ganó',user_wins,'veces.')
 print('Maquina ganó',machine_wins,'veces.')
 >>>>>>> 77de5a00445242d2670e2e4ec20912e1d1d13c7c
 
+
+
     
